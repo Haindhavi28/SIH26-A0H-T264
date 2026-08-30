@@ -5,18 +5,18 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T264
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** penguin.exe <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |     Haindhavi KR        |   CB.SC.U4CSE24224     |    Female       |                                 |  
+|    Member 2     |     Harshith K          |   CB.SC.U4CSE24225     |     Male        |                                 |  
+|    Member 3     |    Vikash chowdri       |   CB.SC.U4CSE24261     |     Male        |                                 |  
+|    Member 4     |     Hemanth S N         |   CB.SC.U4AIE24321     |     Male        |                                 |   
+|    Member 5     |     Yashwanth B         |   CB.SC.U4AIE24360     |     Male        |                                 |  
+|    Member 6     |     Sreehari B          |   CB.EN.4ELC24142      |     Male        |                                 |   
 
 #### Mentor Details
 
