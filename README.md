@@ -5,6 +5,12 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
+## Technical Presentation
+
+A recorded technical presentation outlining the problem scope, system architecture, feasibility analysis and projected impact is available on YouTube:
+
+* **Watch:** [FitVision Technical Presentation & Project Overview](https://youtu.be/mcN1aE9x8iQ)
+
 ## SIH26-A0H-T264
 ### Team Details
 #### **Team Name** penguin.exe <br/>
