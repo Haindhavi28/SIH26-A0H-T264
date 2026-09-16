@@ -40,7 +40,7 @@ A recorded technical presentation outlining the problem scope, system architectu
 * **Problem Statement Title:** Student Innovation-Ideas that can boost fitness activities and assist in keeping fit.
 * **Theme / Category:** Fitness & Sports
 * **Ministry / Organization:** AICTE
-* **Watch:** [FitVision Technical Presentation & Project Overview](https://youtu.be/mcN1aE9x8iQ)
+* **presentation Video :** [FitVision Technical Presentation & Project Overview](https://youtu.be/mcN1aE9x8iQ)
 
 #### PS#2
 
