@@ -9,7 +9,6 @@
 
 A recorded technical presentation outlining the problem scope, system architecture, feasibility analysis and projected impact is available on YouTube:
 
-* **Watch:** [FitVision Technical Presentation & Project Overview](https://youtu.be/mcN1aE9x8iQ)
 
 ## SIH26-A0H-T264
 ### Team Details
@@ -41,6 +40,7 @@ A recorded technical presentation outlining the problem scope, system architectu
 * **Problem Statement Title:** Student Innovation-Ideas that can boost fitness activities and assist in keeping fit.
 * **Theme / Category:** Fitness & Sports
 * **Ministry / Organization:** AICTE
+* **Watch:** [FitVision Technical Presentation & Project Overview](https://youtu.be/mcN1aE9x8iQ)
 
 #### PS#2
 
