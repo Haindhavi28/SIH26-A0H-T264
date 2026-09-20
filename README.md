@@ -14,7 +14,7 @@ A recorded technical presentation outlining the problem scope, system architectu
 ### Team Details
 #### **Team Name** penguin.exe <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender     |    🏫 Department / Programme   | Caste Category | Disability Details |
+|         Role    |            Name         |       Roll Number      |        Gender     |        Department / Programme   | Caste Category | Disability Details |
 |:---------------:|:------------------------|:----------------------:|:-----------------:|:-------------------------------:|:--------------:|:------------------:|
 |   Team Leader   |     Haindhavi KR        |   CB.SC.U4CSE24224     |      Female       |          B.Tech CSE             |       OC       |       None         |
 |    Member 2     |     Harshith K          |   CB.SC.U4CSE24225     |       Male        |          B.Tech CSE             |       OC       |       None         |
