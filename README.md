@@ -21,7 +21,7 @@ A recorded technical presentation outlining the problem scope, system architectu
 |    Member 3     |    Vikash chowdri       |   CB.SC.U4CSE24261     |       Male        |          B.Tech CSE             |       BC       |       None         |
 |    Member 4     |     Hemanth S N         |   CB.SC.U4AIE24321     |       Male        |          B.Tech CSE(AI)         |       BC       |       None         |
 |    Member 5     |     Yashwanth B         |   CB.SC.U4AIE24360     |       Male        |          B.Tech CSE(AI)         |       BC       |       None         |
-|    Member 6     |     Sreehari B          |   CB.EN.4ELC24142      |       Male        |          B.Tech ELC             |       BC       |       None         |
+|    Member 6     |     Sreehari B          |   CB.EN.4ELC24142      |       Male        |          B.Tech ELC             |       OC       |       None         |
 
 #### Mentor Details
 
