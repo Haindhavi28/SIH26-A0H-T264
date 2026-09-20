@@ -14,14 +14,14 @@ A recorded technical presentation outlining the problem scope, system architectu
 ### Team Details
 #### **Team Name** penguin.exe <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |     Haindhavi KR        |   CB.SC.U4CSE24224     |    Female       |          B.Tech CSE             |  
-|    Member 2     |     Harshith K          |   CB.SC.U4CSE24225     |     Male        |          B.Tech CSE             |  
-|    Member 3     |    Vikash chowdri       |   CB.SC.U4CSE24261     |     Male        |          B.Tech CSE             |  
-|    Member 4     |     Hemanth S N         |   CB.SC.U4AIE24321     |     Male        |          B.Tech CSE(AI)         |   
-|    Member 5     |     Yashwanth B         |   CB.SC.U4AIE24360     |     Male        |          B.Tech CSE(AI)         |  
-|    Member 6     |     Sreehari B          |   CB.EN.4ELC24142      |     Male        |          B.Tech ELC             |   
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender     |    🏫 Department / Programme   | Caste Category | Disability Details |
+|:---------------:|:------------------------|:----------------------:|:-----------------:|:-------------------------------:|:--------------:|:------------------:|
+|   Team Leader   |     Haindhavi KR        |   CB.SC.U4CSE24224     |      Female       |          B.Tech CSE             |       OC       |       None         |
+|    Member 2     |     Harshith K          |   CB.SC.U4CSE24225     |       Male        |          B.Tech CSE             |       OC       |       None         |
+|    Member 3     |    Vikash chowdri       |   CB.SC.U4CSE24261     |       Male        |          B.Tech CSE             |       BC       |       None         |
+|    Member 4     |     Hemanth S N         |   CB.SC.U4AIE24321     |       Male        |          B.Tech CSE(AI)         |       BC       |       None         |
+|    Member 5     |     Yashwanth B         |   CB.SC.U4AIE24360     |       Male        |          B.Tech CSE(AI)         |       BC       |       None         |
+|    Member 6     |     Sreehari B          |   CB.EN.4ELC24142      |       Male        |          B.Tech ELC             |       BC       |       None         |
 
 #### Mentor Details
 
